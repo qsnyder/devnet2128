@@ -36,20 +36,26 @@ Welcome to the DevNet Workshop 2128. Below are the commands you will be using at
 
 ## UI to connect to environment
 
-Pod 1 https://dcloud2-sjc.cisco.com/session/131512/webrdp/1637728?isLoggingIn=true
+**Pod1:** https://dcloud2-rtp.cisco.com/sessions/734485/servers/8093922/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 2 https://dcloud2-sjc.cisco.com/session/131511/webrdp/1637732?isLoggingIn=true
+**Pod2:** https://dcloud2-rtp.cisco.com/sessions/734486/servers/8093918/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 3 https://dcloud2-sjc.cisco.com/session/131510/webrdp/1637736?isLoggingIn=true
+**Pod3:** https://dcloud2-rtp.cisco.com/sessions/734487/servers/8093914/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 4 https://dcloud2-sjc.cisco.com/session/131509/webrdp/1637741?isLoggingIn=true
+**Pod4:** https://dcloud2-rtp.cisco.com/sessions/734488/servers/8093910/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 5 https://dcloud2-sjc.cisco.com/session/131508/webrdp/1637743?isLoggingIn=true
+**Pod5:** https://dcloud2-rtp.cisco.com/sessions/734489/servers/8093906/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 6 https://dcloud2-sjc.cisco.com/session/131507/webrdp/1637758?isLoggingIn=true
+**Pod6:** https://dcloud2-rtp.cisco.com/sessions/734490/servers/8093902/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 7 https://dcloud2-sjc.cisco.com/session/131506/webrdp/1637773?isLoggingIn=true
+**Pod7:** https://dcloud2-rtp.cisco.com/sessions/734491/servers/8093898/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 8 https://dcloud2-sjc.cisco.com/session/131505/webrdp/1637785?isLoggingIn=true
+**Pod8:** https://dcloud2-rtp.cisco.com/sessions/734492/servers/8093894/rdp?returnPathTitleKey=view-session&isLoggingIn=true
 
-Pod 9 https://dcloud2-sjc.cisco.com/session/131504/webrdp/1637799?isLoggingIn=true
+**Pod9:** https://dcloud2-rtp.cisco.com/sessions/734493/servers/8093890/rdp?returnPathTitleKey=view-session&isLoggingIn=true
+
+**Pod10:** https://dcloud2-rtp.cisco.com/sessions/734494/servers/8093886/rdp?returnPathTitleKey=view-session&isLoggingIn=true
+
+**Pod11:** https://dcloud2-rtp.cisco.com/sessions/734495/servers/8093882/rdp?returnPathTitleKey=view-session&isLoggingIn=true
+
+**Pod12:** https://dcloud2-rtp.cisco.com/sessions/734496/servers/8093837/rdp?returnPathTitleKey=view-session&isLoggingIn=true

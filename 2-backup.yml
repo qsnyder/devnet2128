@@ -16,7 +16,7 @@
       state: directory
 
   - name: get timestamp
-    command: date +%Y%m%d
+    command: date +%Y%m%d_%H%M%S
     register: timestamp
 
   - copy:

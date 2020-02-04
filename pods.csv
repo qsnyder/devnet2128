@@ -1,13 +1,13 @@
-Session Id, Session Name, Usernames, Password, Start, Stop, DNS Assets, Shared With, Endpoint Kits, Public IPs  
-700038,Cisco VIRL 1.6.65 Sandbox July Release v1,v1192user1; v1192user2; ... v1192user16,="d2ca27",2019-10-29 16:16:00,2019-10-31 04:14:00,No DNS Assets,No One,None,null
-700034,Cisco VIRL 1.6.65 Sandbox July Release v1,v1787user1; v1787user2; ... v1787user16,="ec6344",2019-10-29 16:32:00,2019-10-31 04:10:00,No DNS Assets,No One,None,null
-700029,Cisco VIRL 1.6.65 Sandbox July Release v1,v1570user1; v1570user2; ... v1570user16,="f50ff8",2019-10-29 16:52:00,2019-10-31 04:05:00,No DNS Assets,No One,None,null
-700035,Cisco VIRL 1.6.65 Sandbox July Release v1,v2109user1; v2109user2; ... v2109user16,="85a358",2019-10-29 16:28:00,2019-10-31 04:11:00,No DNS Assets,No One,None,null
-700033,Cisco VIRL 1.6.65 Sandbox July Release v1,v1650user1; v1650user2; ... v1650user16,="eddd64",2019-10-29 16:36:00,2019-10-31 04:09:00,No DNS Assets,No One,None,null
-700028,Cisco VIRL 1.6.65 Sandbox July Release v1,v609user1; v609user2; ... v609user16,="4e5436",2019-10-29 16:56:00,2019-10-31 04:04:00,No DNS Assets,No One,None,null
-700032,Cisco VIRL 1.6.65 Sandbox July Release v1,v671user1; v671user2; ... v671user16,="12911c",2019-10-29 16:40:00,2019-10-31 04:08:00,No DNS Assets,No One,None,null
-700031,Cisco VIRL 1.6.65 Sandbox July Release v1,v113user1; v113user2; ... v113user16,="98661d",2019-10-29 16:44:00,2019-10-31 04:07:00,No DNS Assets,No One,None,null
-700027,Cisco VIRL 1.6.65 Sandbox July Release v1,v872user1; v872user2; ... v872user16,="fb0d86",2019-10-29 17:00:00,2019-10-31 04:03:00,No DNS Assets,No One,None,null
-700037,Cisco VIRL 1.6.65 Sandbox July Release v1,v1959user1; v1959user2; ... v1959user16,="8cef81",2019-10-29 16:20:00,2019-10-31 04:13:00,No DNS Assets,No One,None,null
-700036,Cisco VIRL 1.6.65 Sandbox July Release v1,v2395user1; v2395user2; ... v2395user16,="9fda78",2019-10-29 16:24:00,2019-10-31 04:12:00,No DNS Assets,No One,None,null
-700030,Cisco VIRL 1.6.65 Sandbox July Release v1,v2832user1; v2832user2; ... v2832user16,="e9041b",2019-10-29 16:48:00,2019-10-31 04:06:00,No DNS Assets,No One,None,null
+ Session Id, Session Name, Usernames, Password ,Start,Stop, DNS Assets, Endpoint Kits, Public Ips
+734485, Cisco VIRL 1.6.65 Sandbox July Release v1, v83user1; v83user2; ... v83user16,911526, 2020-01-26 00:00, 2020-01-31 00:01, None, None, None
+734486, Cisco VIRL 1.6.65 Sandbox July Release v1, v2999user1; v2999user2; ... v2999user16, 8aa550, 2020-01-25 23:56, 2020-01-31 00:02, None, None, None
+734487, Cisco VIRL 1.6.65 Sandbox July Release v1, v1314user1; v1314user2; ... v1314user16, f8324c, 2020-01-25 23:52, 2020-01-31 00:03, None, None, None
+734488, Cisco VIRL 1.6.65 Sandbox July Release v1, v435user1; v435user2; ... v435user16, 2d5317, 2020-01-25 23:48, 2020-01-31 00:04, None, None, None
+734489, Cisco VIRL 1.6.65 Sandbox July Release v1, v2767user1; v2767user2; ... v2767user16,88e094, 2020-01-25 23:44, 2020-01-31 00:05, None, None, None
+734490, Cisco VIRL 1.6.65 Sandbox July Release v1, v1955user1; v1955user2; ... v1955user16, 96b127, 2020-01-25 23:40, 2020-01-31 00:06, None, None, None
+734491, Cisco VIRL 1.6.65 Sandbox July Release v1, v1313user1; v1313user2; ... v1313user16,220504, 2020-01-25 23:36, 2020-01-31 00:07, None, None, None
+734492, Cisco VIRL 1.6.65 Sandbox July Release v1, v2857user1; v2857user2; ... v2857user16, 5b138c, 2020-01-25 23:32, 2020-01-31 00:08, None, None, None
+734493, Cisco VIRL 1.6.65 Sandbox July Release v1, v2007user1; v2007user2; ... v2007user16, b2881f, 2020-01-25 23:28, 2020-01-31 00:09, None, None, None
+734494, Cisco VIRL 1.6.65 Sandbox July Release v1, v2891user1; v2891user2; ... v2891user16, eaa0d6, 2020-01-25 23:24, 2020-01-31 00:10, None, None, None
+734495, Cisco VIRL 1.6.65 Sandbox July Release v1, v163user1; v163user2; ... v163user16, 4388d9, 2020-01-25 23:20, 2020-01-31 00:11, None, None, None
+734496, Cisco VIRL 1.6.65 Sandbox July Release v1, v303user1; v303user2; ... v303user16, 0e59f0, 2020-01-25 23:16, 2020-01-31 00:12, None, None, None

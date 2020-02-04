@@ -1,3 +1,12 @@
 *.retry
 backup/
 venv/
+roles/
+default_inventory.yaml
+*.virl
+vpnpw.txt
+*.bak
+99-quinn-bits.sh
+98-quinn-spin.sh
+vpn-qms.yml
+pod-qms.csv
